@@ -38,4 +38,5 @@ This transfer function allows one to attain the acostic waveform via tracking th
 
 # References: 
 [1] J. L. Santos, A. P. Leite, and D. A. Jackson, “Optical fiber sensing with a low-finesse Fabry–Perot cavity,” Appl. Opt., vol. 31, no. 34, p. 7361, Dec. 1992.
+
 [2] P. Morris, A. Hurrell, A. Shaw, E. Zhang, and P. Beard, “A Fabry–Pérot fiber-optic ultrasonic hydrophone for the simultaneous measurement of temperature and acoustic pressure,” J. Acoust. Soc. Am., vol. 125, no. 6, pp. 3611–3622, 2009.
